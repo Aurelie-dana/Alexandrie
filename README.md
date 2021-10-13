@@ -23,9 +23,13 @@ Voir le catalogue.
 .
 
 Déploiement du projet :
+
 1 : Télécharger les fichiers du projet.
+
 2 : Upload les fichiers sur votre serveur.
+
 3 : Modifier le fichier « config.php » avec VOS informations lié à VOTRE BDD. Soit les informations suivantes :
+
 DB_SERVER // Indiquer l’hôte
 DB_USERNAME // indiquer le nom de l'utilisateur de votre BDD
 DB_PASSWORD // indiquer le mot de passe de votre BDD
