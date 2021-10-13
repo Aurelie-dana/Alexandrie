@@ -31,8 +31,11 @@ Déploiement du projet :
 3 : Modifier le fichier « config.php » avec VOS informations lié à VOTRE BDD. Soit les informations suivantes :
 
 DB_SERVER // Indiquer l’hôte
+
 DB_USERNAME // indiquer le nom de l'utilisateur de votre BDD
+
 DB_PASSWORD // indiquer le mot de passe de votre BDD
+
 DB_NAME // indiquer le nom de la base de données
 
 .
