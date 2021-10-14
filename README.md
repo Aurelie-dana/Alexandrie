@@ -88,9 +88,9 @@ Réponse : Veuillez-vous référer aux instructions de déploiement du site dans
 
 Questions : J’ai déployé le site, mais les informations liées au formulaire ne s’incrémentent pas dans ma base de données, que doit-je faire ?
 
-Réponse : Veuillez vérifier que vous n’avez pas fait d’erreur dans les balises PHP.
+Réponse : Veuillez vérifier que vous n’avez pas fait d’erreur dans les fonctions PHP.
 
-Avez-vous vérifié que les informations remplis dans les champs du formulaire correspondent exactement à votre base de données ? ainsi qu’a celle des balises PHP ?
+Avez-vous vérifié que les informations remplis dans les champs du formulaire correspondent exactement à votre base de données ? ainsi qu’a celle des fonctions PHP ?
 
 .
 
@@ -114,5 +114,5 @@ $nom = mysqli_real_escape_string($conn, $nom);
 
 .
 
-Le champ du formulaire « name="username" » ne correspond pas aux informations remplis dans les balise PHP !
+Le champ du formulaire « name="username" » ne correspond pas aux informations remplis dans les fonctions PHP !
 
