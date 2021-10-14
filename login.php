@@ -59,7 +59,7 @@ if (isset($_POST['nom'])){
                                 </div>
                                 <input type="submit" value="Connexion " name="submit" class="box-button btn btn-primary d-block btn-user w-100">
                                 <hr>
-                                <div class="text-center"><a class="small" href="mot-de-passe-oublie.html">Mot de passe oublié ?</a>
+                                <div class="text-center"><a class="small" href="mot-de-passe-oublie.php">Mot de passe oublié ?</a>
                                 </div>
                                 <a href="/index.php"onclick="history.go(-1)">Retour</a>
                                 <?php if (! empty($message)) { ?>
