@@ -14,7 +14,7 @@
 
 <body>
     <nav class="navbar navbar-dark navbar-expand-md sticky-top bg-dark" id="mainNav" style="background: #ffffff;">
-        <div class="container"><a class="navbar-brand" href="#">Accueil</a><button data-bs-toggle="collapse" class="navbar-toggler navbar-toggler-right" data-bs-target="#navbarResponsive" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" value="Menu"><i class="fa fa-book"></i></button>
+        <div class="container"><a class="navbar-brand" href="#">Accueil</a><button data-bs-toggle="collapse" class="navbar-toggler navbar-toggler-right" data-bs-target="#navbarResponsive" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" value="Menu"><i class="icon-book-open m-auto text-primary"></i></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item nav-link"><a class="nav-link" href="register.php">S'inscrire</a></li>
